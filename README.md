@@ -1,5 +1,7 @@
-# parzdb-cc-suite
+## install required packages
 
-## ParzDB Comment Craft Suite
+pip install -r requirements.txt
 
-ParzDB Comment Craft Suite for creating and importing "Fassungskommentare" as html/sql from docx-files
+
+
+

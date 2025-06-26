@@ -1,0 +1,50 @@
+body {
+	  font-family: Lucida Grande, Junicode, serif;
+}
+
+.fassungs-kommentar {
+    line-height: 1.6;
+    margin-bottom: 1em;
+}
+
+.fk-title {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.fk-content {
+    margin-top: 10px;
+    font-size: 1em;
+}
+
+.fk-commentary {
+    margin: 10px 0;
+}
+
+.fk-bold {
+    font-weight: bold;
+}
+
+.fk-italic {
+    font-style: italic;
+}
+
+.fk-small-caps {
+    font-variant: small-caps;
+    font-size: 1em;
+}
+
+.fk-commentary a {
+    // color: #1a73e8;
+	color: #990000;
+    text-decoration: none;
+}
+
+.fk-commentary a:hover {
+    text-decoration: underline;
+}
+
+.fk-literatur {
+	font-size: 0.8em;
+}
