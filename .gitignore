@@ -1,1 +1,6 @@
 config.py
+/.idea
+output/.DS_Store
+output/backup/.DS_Store
+output/.DS_Store
+/output/backup

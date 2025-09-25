@@ -23,7 +23,7 @@ def run():
         e.export_commentary_as_html(c, True)
     e.export_as_csv()
     e.export_missing_literature()
-    #import_to_db()
+    import_to_db()
 
 
     e.export_all_directlinks()
